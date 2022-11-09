@@ -14,6 +14,9 @@ source ~/.screenManager.sh
 2. Then add .screenManager.sh to the same folder
 
 
+3. Restart your SHH session
+
+
 ## Usage
 
 **It is very important that you do not enter one screen and then another.**
