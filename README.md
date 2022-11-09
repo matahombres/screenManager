@@ -1,8 +1,9 @@
 # screenManager
 Custom command for easy management of the screen command, which allows you to open multiple instances of the terminal and is very useful in an SSH connection because by SSH you only have access to one instance of the terminal
 
+## Installation
 
-You need go to `.bashrc` and add at the end:
+1. You need go to `.bashrc` and add at the end:
 
 > **Note** For people who can't find `.bashrc`: This file is the one that manages the shell profile in linux, it is usually located in the `~` folder. 
 
@@ -10,7 +11,10 @@ You need go to `.bashrc` and add at the end:
 source ~/.screenManager.sh
 ```
 
-Then add .screenManager.sh to the same folder
+2. Then add .screenManager.sh to the same folder
+
+
+## Usage
 
 **It is very important that you do not enter one screen and then another.**
 
